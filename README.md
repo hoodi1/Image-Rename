@@ -9,7 +9,7 @@ Before running the script, ensure you have Python installed on your system. The 
 ## Installation
 
 1. Clone or download this repository to your local machine.
-2. Navigate to the directory containing the `rename_images.py` script.
+2. Navigate to the directory containing the `Image_renames.py` script.
 
 ## Usage
 
@@ -17,7 +17,7 @@ Before running the script, ensure you have Python installed on your system. The 
 2. Run the script using the following command:
 
 ```bash
-python rename_images.py
+python Image_renames.py
 ```
 
 3. The script will prompt you for the input directory path, output directory path, and renaming pattern.
